@@ -10,6 +10,8 @@ function App() {
 
       {/*-Defines passing value between components -*/}
       <ClassAComponent />
+
+      {/*--Lifecycle example --*/}
     </div>
   );
 }

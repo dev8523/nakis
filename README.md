@@ -1,1 +1,1 @@
-# nakis
+# nakis training session
